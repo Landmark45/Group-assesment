@@ -1,0 +1,20 @@
+======================My Linux Commands @Landmark Bootcamp 2024================
+-------------------------------------------------------------------------------
+====== Instructor: Kah Kissinger =====
+1. cd directoryname --- change directory
+2. touch filename --- create file
+3. mkdir directoryName --- create directory
+4. ls --- List item in a dorectory
+5. pwd --- shows present working directory
+6. clear --- clear front page
+7. vi --- go to text editor 
+8. cat --- view item in a text file
+9. rmdir --- remove directory
+10. cd .. --- go back to previous directory
+11. rf --- remove file
+12. tree ---  list items in a directory
+13. vim --- text editing
+14. nano --- text editing in a tree format
+15. ls -a --- list items including files
+
+=================================Landmark Student===============================
