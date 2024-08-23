@@ -1,0 +1,55 @@
+== Develop an LM system for managing courses,students, assignments and grades==
+===============================================================================
+i.Actors IDENTIFICATION and their roles
+=======================================
+#Student
+------------------------------------
+a. Access course materials
+--------------------------
+-View courses, grades, assignments, information
+-Manage content(download, view, organise)
+------------------------------------
+b. Sign-in/login
+-----------------------------
+-Course enrollment
+-Do tasks/assignments
+-Participate in online discussions/communities
+-Communicate with instructors
+-Collaborate with Peers
+------------------------
+c. Manage account
+----------------------------
+-Modify
+-View
+-Customize profile
+
+#Instructor
+ --------------------------
+ a.Manage courses
+ --------------------------
+  -create forum
+  -create courses
+  -create tests
+  -create and grades assignments
+  -add courses materials
+---------------------------
+#Administrator
+ --------------------------
+ a.Handle technical issues
+ --------------------------
+ -Defining user role
+ -creating learning courses
+ -building certificates
+ -provide feedbacks
+ ---------------------------
+ b.Manage users
+ ---------------------------
+ -create
+ -view
+ -update
+ -delete
+ ---------------------------
+ c.Manage finances
+ ---------------------------
+ -send due payment notification
+ -send payment confirmation messages
